@@ -1,0 +1,32 @@
+<!--
+Assignment #: Homework 1
+File name: Group25_HW1 - strings.xml
+Name: Kristin Pflug
+-->
+
+
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_total_label">Bill Total: </string>
+    <string name="bill_hint_text">Enter Bill Total</string>
+    <string name="tip_percent_label">Tip %: </string>
+    <string name="ten_percent_radio_label">10%</string>
+    <string name="fifteen_percent_radio_label">15%</string>
+    <string name="eighteen_percent_radio_label">18%</string>
+    <string name="custom_tip_radio_label">Custom</string>
+    <string name="custom_tip_slider_label">Custom: </string>
+    <string name="custom_tip_slider_value">40%</string>
+    <string name="tip_label">Tip: </string>
+    <string name="tip_result">$0.0</string>
+    <string name="tip_total_label">Total: </string>
+    <string name="tip_total_result">$0.0</string>
+    <string name="bill_split_label">Split By: </string>
+    <string name="one_person_radio_label">One</string>
+    <string name="two_people_radio_label">Two</string>
+    <string name="three_people_radio_label">Three</string>
+    <string name="four_people_radio_label">Four</string>
+    <string name="total_per_person_label">Total/Person: </string>
+    <string name="total_per_person_result">$0.0</string>
+    <string name="clear_button_label">Clear</string>
+    <string name="nfeErrorText">Bill amount entered must be a positive decimal number.</string>
+</resources>
